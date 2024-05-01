@@ -1,0 +1,30 @@
+#rhar{
+    position: relative;
+    top: 200px;
+    left: 50px;
+    margin-right: 20px;
+}
+
+/* rasgele ülkeler */
+#ülkeler{
+    position: relative;
+    top: 150px;
+    left: 600px;
+
+}
+/*  farklı rasgele ülke seçme yöntemi*/
+#farklısec{
+    position: relative;
+    
+    
+}
+
+/*harita  */
+#hrtt{
+    position: relative;
+    height: 400px;
+    width: 600px;
+
+    top: 150px;
+    left: 40px;
+}
