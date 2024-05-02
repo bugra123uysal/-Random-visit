@@ -12,12 +12,8 @@
     left: 600px;
 
 }
-/*  farklı rasgele ülke seçme yöntemi*/
-#farklısec{
-    position: relative;
-    
-    
-}
+
+
 
 /*harita  */
 #hrtt{
@@ -27,4 +23,24 @@
 
     top: 150px;
     left: 40px;
+}
+
+/* ülkerini bayrakları */
+.ülkler{
+    position: relative;
+    height: 100px;
+    width: 100px;
+
+}
+
+#rr{
+    position: relative;
+    height: 110px;
+    width: 110px;
+}
+
+/* bayraklar  */
+#gzl{
+    
+    display: block;
 }
