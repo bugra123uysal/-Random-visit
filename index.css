@@ -1,9 +1,4 @@
-#rhar{
-    position: relative;
-    top: 200px;
-    left: 50px;
-    margin-right: 20px;
-}
+
 
 /* rasgele ülkeler */
 #ülkeler{
@@ -13,17 +8,6 @@
 
 }
 
-
-
-/*harita  */
-#hrtt{
-    position: relative;
-    height: 400px;
-    width: 600px;
-
-    top: 150px;
-    left: 40px;
-}
 
 /* ülkerini bayrakları */
 .ülkler{
@@ -43,4 +27,46 @@
 #gzl{
     
     display: block;
+
+
+}
+
+/* rasgele ülke seç */
+
+/* rasgele baş harf */
+#rhar{
+    position: relative;
+    left: 700px;
+    top: 40px;
+    height: auto;
+    width: 20px;
+    border: solid 1px  black;
+    text-align: center;
+   
+}
+
+#country{
+    position: relative;
+    top: 70px;
+    left:640px;
+    height: auto;
+    width: 300px;
+
+}
+
+/* button */
+#rrsgl{
+    position: relative;
+    top: 150px;
+    left: 660px;
+
+}
+
+/* harita */
+#hrtt{
+    position: relative;
+     bottom: 50px;
+     left: 360px;
+    height: 380px;
+    width: 800px;
 }
